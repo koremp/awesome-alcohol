@@ -27,10 +27,18 @@
 
 ## 칵테일바/펍 등 주점 정보
 
+### :cocktail: 칵테일바
+
 |이름|주소|설명|Social|
 |------|---|---|---|
-|아도니스|대전광역시 중구 대흥동 중앙로130번길 24 3층||[blog](https://blog.naver.com/alsol97?proxyReferer=https%3A%2F%2Fwww.google.com%2F)|
+|아도니스|대전광역시 중구 대흥동 중앙로130번길 24 3층||[Blog](https://blog.naver.com/alsol97?proxyReferer=https%3A%2F%2Fwww.google.com%2F)|
 |바 틸트|서울특별시 서대문구 창천동 52-151||[Twitter](https://twitter.com/barTILT)|
+
+### :beers: 펍
+
+|이름|주소|설명|Social|
+|------|---|---|---|
+|링고|서울특별시 관악구 봉천동 봉천로 518-4||[Blog](https://blog.naver.com/craftlingo)|
 
 ## 주류
 
