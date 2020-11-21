@@ -1,10 +1,10 @@
-# "THE ALCOHOL-WARE LICENSE"
+# "THE COCKTAIL-WARE LICENSE"
 
 [@koremp](https://github.com/koremp) wrote this file.
 
 As long as you retain this notice you can do whatever you want
 with this stuff. If we meet some day, and you think this stuff
-is worth it, you can buy me a **alcohol 
+is worth it, you can buy me a **COCKTAIL 
 🍸** in return.
 
 (This license is based on ["THE BEER-WARE LICENSE" (Revision 42)].
