@@ -1,6 +1,8 @@
 # awesome-alcohol :cocktail::beers::wine_glass::tropical_drink:
 
-내가 즐기는 술에 관한 정보를 모아놓을 레포지토리
+국내 펍/칵테일바 리스트 및 관련 자료가 담긴 레포지토리입니다.
+
+> PR 환영입니다!
 
 <p align="center">
   <a href="https://awesome.re">
